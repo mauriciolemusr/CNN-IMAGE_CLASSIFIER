@@ -1,5 +1,5 @@
 # Code by Mauricio Lemus Rochin
-# Built using Pytorch, the Fashion MNIST dataset, and Claude AI
+# Built using Pytorch and trained with the Fashion MNIST dataset
 
 import torch
 from torch.utils.data import Dataset
